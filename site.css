@@ -1,5 +1,5 @@
 .header {
-  background-color: #ffffff;
+  background-color: #fffffc;
   color: #333333;
   box-shadow: 0 4px 2px -2px rgba(0, 0, 0, 0.05);
   padding-top: 70px;
@@ -175,7 +175,8 @@ html {
 }
 body {
   margin: 0 0 65px 0;
-  background-color: #f8f8f8;
+  background-color: #fffffc;
+  background-image: url("brilliant.png");
 }
 .item {
   max-width: 1000px;
@@ -281,7 +282,7 @@ body {
   margin: 1px 0 5px 0;
 }
 .clickable-card:hover {
-  background-color: rgba(212, 212, 212, 0.3);
+  background-color: #fffffe;
   cursor: pointer;
 }
 .project-disclaimer p {
