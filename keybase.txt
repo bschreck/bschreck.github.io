@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/bschreck
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://benschreck.com
+  * I am bschreck (https://keybase.io/bschreck) on keybase.
+  * I have a public key ASB4nrHhTnBdFF-rERSzxRpvfnJZGvN0ZDytmRJ6UnM4GAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120c285b5b6e3c9b892fc9c0fbffcdf4888f86af25ba66e03d1cc2a72c869bae3a80a",
+      "host": "keybase.io",
+      "kid": "0120789eb1e14e705d145fab1114b3c51a6f7e72591af374643cad99127a527338180a",
+      "uid": "1a6d15b51ec5ed1c123efb9fac128719",
+      "username": "bschreck"
+    },
+    "merkle_root": {
+      "ctime": 1559166346,
+      "hash": "0d40bd673903fa1a29b09f5e7d171367760a0faf9b1f257b023cb45ddbb8fecaf0994c070daf261cff813e6c635424467a7dfd2ed8f77270461ac059cdfe31ea",
+      "hash_meta": "740bd7030bd97a89f1f17d1652bd37e3ff73491f85ae6b68cd999b5186637bbd",
+      "seqno": 5471656
+    },
+    "service": {
+      "entropy": "C+cFMO8eXMgbwyxLv8usS1Hh",
+      "hostname": "benschreck.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.0.0"
+  },
+  "ctime": 1559166363,
+  "expire_in": 504576000,
+  "prev": "983b81edbdf1adf03c740c004dc9df74d9453ea372a698e15be3ee3e75b360cf",
+  "seqno": 11,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgeJ6x4U5wXRRfqxEUs8Uab35yWRrzdGQ8rZkSelJzOBgKp3BheWxvYWTESpcCC8QgmDuB7b3xrfA8dAwATcnfdNlFPqNyppjhW+PuPnWzYM/EII3u/8t81TascaCSu3sfKCjPGI9Mv2z9BLU0lHpT68fdAgHCo3NpZ8RAaMfl2vSfawwjzXBBa02lNdKgCfXZkyBhfC11lrz6vN4kDiAEFbFgBsyVSNlBWoj8XewEvcH7hxkVpEEjpdRyDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIEXNxa6nigYCWXDsX9XgWVRgX9WxKgbMJkZSDUp3qqYNo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/bschreck
+
+==================================================================
